@@ -118,7 +118,7 @@ The **Used Car Sale Process** follows a used car from the moment a seller brings
 | Document | Link |
 |---|---|
 | Business process explanation | docs/business_process/business_process_explanation (1).pdf |
-| Business process diagram | [business_process_diagram.pdf](docs/business_process/business_process_diagram.pdf) |
+| Business process diagram | https://github.com/keneth55/kenneth_20252SEN344_carTrack/blob/main/docs/business_process/business_process_diagram.drawio.pdf |
 
 ---
 
